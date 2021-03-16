@@ -20,16 +20,16 @@
 }
 
 @font-face {
-    font-family: 'DejaVuSansMono Nerd Font';
-    src: local('DejaVu Sans Mono Nerd Font Complete'),
-        url('DejaVuSansMonoNerdFontComplete.woff2') format('woff2');
+    font-family: "DejaVuSansMono Nerd Font";
+    src: local("DejaVu Sans Mono Nerd Font Complete"),
+        url(fonts/DejaVuSansMonoNerdFontComplete.woff2) format("woff2");
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
-    font-family: 'DejaVuSansMono Nerd Font';
-    src: local('DejaVu Sans Mono Bold Nerd Font Complete'),
-        url('DejaVuSansMonoNerdFontComplete-Bold.woff2') format('woff2');
+    font-family: "DejaVuSansMono Nerd Font";
+    src: local("DejaVu Sans Mono Bold Nerd Font Complete"),
+        url(fonts/DejaVuSansMonoNerdFontComplete-Bold.woff2) format("woff2");
     font-weight: bold;
     font-style: normal;
 }
