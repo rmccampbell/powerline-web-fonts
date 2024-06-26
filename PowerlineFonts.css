@@ -21,30 +21,30 @@
 
 @font-face {
     font-family: "DejaVuSansMono Nerd Font";
-    src: local("DejaVu Sans Mono Nerd Font Complete"),
-        url("fonts/DejaVuSansMonoNerdFontComplete.woff2") format("woff2");
+    src: local("DejaVuSansM Nerd Font"),
+        url("fonts/DejaVuSansMNerdFont-Regular.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: "DejaVuSansMono Nerd Font";
-    src: local("DejaVu Sans Mono Bold Nerd Font Complete"),
-        url("fonts/DejaVuSansMonoNerdFontComplete-Bold.woff2") format("woff2");
+    src: local("DejaVuSansM Nerd Font Bold"),
+        url("fonts/DejaVuSansMNerdFont-Bold.woff2") format("woff2");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: "DejaVuSansMono Nerd Font Mono";
-    src: local("DejaVu Sans Mono Nerd Font Complete Mono"),
-        url("fonts/DejaVuSansMonoNerdFontCompleteM.woff2") format("woff2");
+    src: local("DejaVuSansM Nerd Font Mono"),
+        url("fonts/DejaVuSansMNerdFontMono-Regular.woff2") format("woff2");
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: "DejaVuSansMono Nerd Font Mono";
-    src: local("DejaVu Sans Mono Bold Nerd Font Complete Mono"),
-        url("fonts/DejaVuSansMonoNerdFontCompleteM-Bold.woff2") format("woff2");
+    src: local("DejaVuSansM Nerd Font Mono Bold"),
+        url("fonts/DejaVuSansMNerdFontMono-Bold.woff2") format("woff2");
     font-weight: bold;
     font-style: normal;
 }
